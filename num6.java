@@ -19,8 +19,6 @@ public class num6 {
 			par[i] = (par[i]+num[i]);	
 
 			}
-
-
 			System.out.println("");
 
 		}
